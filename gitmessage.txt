@@ -1,0 +1,3 @@
+# Title: Short summary (50 chars max)
+# Description: Detailed explanation (wrap at 72 chars)
+# Issue: Link or ID
