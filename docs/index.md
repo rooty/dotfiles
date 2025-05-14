@@ -1,5 +1,5 @@
 # Dotfiles
-- [Example vimrc](https://github.com/rooty/dotfiles/- blob/main/vimrc)
+- [Example vimrc](https://github.com/rooty/dotfiles/blob/main/vimrc)
 - [Gitmessage](gitmessage.md)
 - [Exaple gitmessage](https://github.com/rooty/dotfiles/blob/main/gitmessage.txt)
 
